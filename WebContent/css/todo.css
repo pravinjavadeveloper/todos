@@ -1,0 +1,63 @@
+body {
+	padding: 10px 350px 10px 350px;
+}
+
+.done-true {
+	text-decoration: line-through;
+	color: grey;
+}
+
+.u {
+	text-decoration: underline;
+}
+
+.todoView {
+	border-style: solid;
+}
+
+.Table {
+	display: table;
+}
+
+.Title {
+	display: table-caption;
+	text-align: left;
+}
+
+.Heading {
+	display: table-row;
+	font-weight: bold;
+	text-align: center;
+}
+
+.Row {
+	display: table-row;
+}
+
+.Cell {
+	display: table-cell;
+	border: solid;
+	width: 50px;
+	border-width: thin;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.Cell2 {
+	text-align: left;
+	display: table-cell;
+	border: solid;
+	border-width: thin;
+	width: 250px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.Cell3 {
+	display: table-cell;
+	border: solid;
+	width: 130px;
+	border-width: thin;
+	padding-left: 5px;
+	padding-right: 5px;
+}
